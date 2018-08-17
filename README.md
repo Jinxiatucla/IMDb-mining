@@ -48,3 +48,6 @@ Instruction
 2. question{x}\_{R/py}.ipynb represents for the code for the question x in R or in python. For most of the time, we use python to do the data preprocessing, such as mapping the movie name to the movie id. We use R to analysis the graph. Thus, if there two files for one question, run the python file first to generate the required file (such as edgelist.txt, movieid\_genre.txt, or movieid_rating.txt) and then run the R file to do the operations on the graph. 
 3. We map the actors' name and movies' name to the ids. The details of mapping can be found in the movie\_id_map.txt and actor\_name\_id\_map.txt
 
+Contributors:
+---
+Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project4
