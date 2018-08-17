@@ -30,6 +30,10 @@ Project4
 ├── question9_movie_id_rate_py.ipynb
 └── rating_bipartite.ipynb
 ```
+Problems Statement:
+---
+Project 4 statement.pdf
+
 Introduction
 ---
 This project contains to part to study various properties of Internet Movie Database.
